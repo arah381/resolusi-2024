@@ -2,3 +2,4 @@ Resolusi 2024 :
 - Membuat content di youtube channel 1x seminggu
 - Membuat project 1 project per 3 bulan
 - Mengupload project secara online di server cloud atau VPS
+- Membuat tim pengembangan program
